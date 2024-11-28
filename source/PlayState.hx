@@ -94,6 +94,8 @@ import openfl.display.Sprite;
 
 import vlc.MP4Handler;
 
+import Shaders;
+
 using StringTools;
 
 class PlayState extends MusicBeatState
